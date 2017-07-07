@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mavenTest:war exploded2">
+    <output-path>$PROJECT_DIR$/../mavenTest/out/artifacts/mavenTest_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mavenTest" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="mavenTest/web/Web" />
+    </root>
+  </artifact>
+</component>
